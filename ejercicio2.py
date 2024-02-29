@@ -25,6 +25,4 @@ def main():
     print(texto_formateado)
 
 
-if __name__ == "__main__":
-    main()
 
